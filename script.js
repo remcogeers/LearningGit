@@ -1,1 +1,1 @@
-$(document)ready(function(){aler('hello world!')})
+$(document).ready(function(){aler('hello world!');})
